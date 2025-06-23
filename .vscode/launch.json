@@ -1,0 +1,112 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "D1_3Teste",
+            "request": "launch",
+            "mainClass": "D1_3Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A0_HelloWorld",
+            "request": "launch",
+            "mainClass": "A0_HelloWorld",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "A1_0Teste",
+            "request": "launch",
+            "mainClass": "A1_0Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "A1_4Teste",
+            "request": "launch",
+            "mainClass": "A1_4Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "A1_6Teste",
+            "request": "launch",
+            "mainClass": "A1_6Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "B1_1Teste",
+            "request": "launch",
+            "mainClass": "B1_1Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "B1_3Teste",
+            "request": "launch",
+            "mainClass": "B1_3Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "B1_4Teste",
+            "request": "launch",
+            "mainClass": "B1_4Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "D1_1Teste",
+            "request": "launch",
+            "mainClass": "D1_1Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "D1_2Teste",
+            "request": "launch",
+            "mainClass": "D1_2Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "D1_4Teste",
+            "request": "launch",
+            "mainClass": "D1_4Teste",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "Infos",
+            "request": "launch",
+            "mainClass": "Infos",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        },
+        {
+            "type": "java",
+            "name": "Repositorio",
+            "request": "launch",
+            "mainClass": "Repositorio",
+            "projectName": "IFSC-Codespace-ENG-ADS-JAVA-POO_c94b7903"
+        }
+    ]
+}
