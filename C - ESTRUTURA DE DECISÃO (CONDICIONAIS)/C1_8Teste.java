@@ -22,3 +22,4 @@ public class C1_8Teste {
         entrada.close();
     }
 }
+
